@@ -3,5 +3,95 @@
     "id": 1,
     "name": "Air Horn 1",
     "url": "https://github.com/duckindark/alarmy/raw/76e797f97e29c9da66dc805da69f3d3f4ba198e9/AirHorn%201.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Air Horn 2",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/AirHorn%205.mp3"
+  },
+  {
+    "id": 3,
+    "name": "Bird",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Bird%20Singing.mp3"
+  },
+  {
+    "id": 4,
+    "name": "Bell Ring",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Happy%20Bell%20Ringing%20(free).mp3"
+  },
+  {
+    "id": 5,
+    "name": "Party Blower",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Party%20Blower.mp3"
+  },
+  {
+    "id": 6,
+    "name": "Rock",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Rock.mp3"
+  },
+  {
+    "id": 7,
+    "name": "Rooster",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Rooster.mp3"
+  },
+  {
+    "id": 8,
+    "name": "Trap",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/Trap.mp3"
+  },
+  {
+    "id": 9,
+    "name": "Cat",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/cat.mp3"
+  },
+  {
+    "id": 10,
+    "name": "Cow",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/cow.mp3"
+  },
+  {
+    "id": 11,
+    "name": "Cute",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/cute%20music.mp3"
+  },
+  {
+    "id": 12,
+    "name": "Door Bell",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/door%20bell.mp3"
+  },
+  {
+    "id": 13,
+    "name": "Electro Pop",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/electro_pop.mp3"
+  },
+  {
+    "id": 14,
+    "name": "Beat",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/euro_beat.mp3"
+  },
+  {
+    "id": 15,
+    "name": "Fun Music",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/funny_background.mp3"
+  },
+  {
+    "id": 16,
+    "name": "Beat",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/game_beat.mp3"
+  },
+  {
+    "id": 17,
+    "name": "Birthday",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/happy_birthday.mp3"
+  },
+  {
+    "id": 18,
+    "name": "Happy Song",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/happy_song.mp3"
+  },
+  {
+    "id": 19,
+    "name": "Music Box",
+    "url": "https://github.com/duckindark/alarmy/blob/8f075f0d37c6b2058c68f45b628ffad5b2b47b73/music_box.mp3"
   }
 ]
